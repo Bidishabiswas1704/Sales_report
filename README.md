@@ -31,33 +31,33 @@ Snap of Visual filters (Slicers),
 ![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/f953791f-3e55-4834-93b9-ec2323e8d720)
 
 - Step 8 : In the report view, under the insert tab, a text boxes was added to the canvas, where name of the Dashboard was mentioned.
-- Step 9 : Six card visuals were added to the canvas, one representing Total no. of employees, No. of employees leaving, Employee leaving rate, Average age of employees, Average salary of employee and Average years served at company by the employees leaving it.
+- Step 9 : Three card visuals were added to the canvas, one representing Total Revenue of the company, other represnting Total sales quantity, and Total profit margin of the company.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
            
            Although, by default, while calculating average, blank values are ignored.
 
-- Step 10 : A card visual was used to represent the Total no. of employees.
+- Step 10 : A card visual was used to represent the Total Revenue of the company.
 
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/372ab522-9eba-4091-a4bf-e17c6bc4f966)
-
-Following DAX expression was written for the same,
-        
-       Total no. of employees  = COUNT(HR_Analytics[EmpID])
-- Step 11 : Second card visual was used to represents No. of employees leaving the company.
-
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/196cc87e-115d-4b5d-8589-8ded941f489e)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/8cb11554-9f34-441b-a2d0-58e595e74825)
 
 Following DAX expression was written for the same,
         
-       No. of employees leaving  = SUM(HR_Analytics[AttritionCount])
+       Revenue = SUM('sales transactions'[sales_amount])
+- Step 11 : Second card visual was used to represents Total sales quantity of the company.
+
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/4a7a9bae-7e60-4fe9-b776-725f8c1aec1c)
+
+Following DAX expression was written for the same,
+        
+       Sales Qty = SUM('sales transactions'[sales_qty])
        
-- Step 12 : Third card visual was used to represents Employees leaving rate.
+- Step 12 : Third card visual was used to represents Total profit margin of the company.
 
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/bc385c15-d7a1-4317-a779-c73b2d18addb)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/ab6218fb-a52b-42ac-a943-0ad7ecc15c1a)
  
 Following DAX expression was written for the same,
                
-      Employees leaving rate = DIVIDE(SUM(HR_Analytics[AttritionCount]), SUM(HR_Analytics[EmployeeCount]), 0)
+      Total Profit Margin = SUM('sales transactions'[profit_margin])
       
 - Step 13 : Fourth card visual was used to represents Average age of employees leaving the company.
 
