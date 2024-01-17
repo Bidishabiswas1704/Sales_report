@@ -23,11 +23,13 @@ Snap of Star Schema Database ,
 
 ![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/b85092bf-98e1-4c4e-9735-968897349e14)
 - Step 6 : In the report view, under the view tab, theme was selected.
-- Step 7 : Since the data contains various departments, Visual filters (Slicers) were added for three departments named "Human Resource", "Research and Development", & "Sales".
+- Step 7 : Since the data is temporal, contains data of various years Visual filters (Slicers) were added for different years and months of that year.
 
 Snap of Visual filters (Slicers),
 
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/c2ac6f4b-f277-46c0-85e0-88600bd972eb)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/be323eff-2689-4568-8bbe-e6771bf8af0b)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/f953791f-3e55-4834-93b9-ec2323e8d720)
+
 - Step 8 : In the report view, under the insert tab, a text boxes was added to the canvas, where name of the Dashboard was mentioned.
 - Step 9 : Six card visuals were added to the canvas, one representing Total no. of employees, No. of employees leaving, Employee leaving rate, Average age of employees, Average salary of employee and Average years served at company by the employees leaving it.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
