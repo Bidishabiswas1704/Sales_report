@@ -97,4 +97,5 @@ A two pages report was created on Power BI Desktop & it was then published to Po
 
 Following inferences can be drawn from the dashboard;
 ## A) Performance Analysis:
-### [1] 
+### [1] Sales Quanity by Maeket
+
