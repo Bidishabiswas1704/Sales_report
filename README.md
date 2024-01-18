@@ -93,7 +93,8 @@ Following DAX expression was written for the same,
 
 # 📈 Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+A two pages report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard;
-### [1] Total Number of Employees in the company= 1413
+## A) Performance Analysis:
+### [1] 
