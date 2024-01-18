@@ -82,6 +82,5 @@ Following DAX expression was written for the same,
 
 - Step 17 : The rest of the report is divided into two sheets, namely Performance analysis and profit analysis which contains six clustered bar charts, one line and column clustered bar  charts, one table and a line chart to clearify the problem statement using various visulazation as mentioned.
  - Step 18 : The report was then published to Power BI Service.
- 
- 
+ ![Screenshot 2024-01-17 153607](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/09d63a73-6a97-408e-8170-04a9aeb5cf5f) 
 
