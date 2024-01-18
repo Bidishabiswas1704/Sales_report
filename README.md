@@ -59,30 +59,29 @@ Following DAX expression was written for the same,
                
       Total Profit Margin = SUM('sales transactions'[profit_margin])
       
-- Step 13 : Fourth card visual was used to represents Average age of employees leaving the company.
-
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/e34da94d-9f9f-4ab6-984b-a8c441f9b2aa)
+- Step 13 : Some other new measures are calculated for the better insights of the revenue and sales. For calculating Profit percentage.
 
 Following DAX expression was written for the same,
         
-       Employees average age  = AVERAGE(HR_Analytics[AgeGroup])
-- Step 14 : Fifth card visual was used to represents Average salary of employees leaving the company.
+       Profit Margin % = DIVIDE([Total Profit Margin],[Revenue],0)
+- Step 14 : Next Profit Margin contribution percentage is also calculated.
 
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/84ccb347-e00b-489c-bff8-ca5e6e160844)
-
-Following DAX expression was written for the same,
-        
-       Employees average salary  = AVERAGE(HR_Analytics[MonthlyIncome])
-- Step 15 : Sixth card visual was used to represents Average years served by the employees before leaving the company.
-
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/d5b8fff2-ebae-460c-81ef-2e7549032686)
 
 Following DAX expression was written for the same,
         
-       Average years served at company  = AVERAGE(HR_Analytics[YearsAtCompany])
+      Profit Margin Contribution % = DIVIDE([Total Profit Margin],CALCULATE([Total Profit Margin],ALL('sales products'),All('sales customers'),ALL('sales markets')))
+- Step 15 : On the similar basis Revenue Margin contribution percentage is calculated.
 
-- Step 16 : The rest of the report contains a donut chart, two bar charts, two stacked bar charts, one table and an area chart to clearify the problem statement using various visulazation as mentioned.
- - Step 17 : The report was then published to Power BI Service.
+Following DAX expression was written for the same,
+        
+       Revenue Margin Contribution % = DIVIDE([Revenue],CALCULATE([Revenue],ALL('sales products'),All('sales customers'),ALL('sales markets')))
+- Step 16 : At last, the revenue is comparied with the revenue of the last year.
+Following DAX expression was written for the same,
+        
+       Revenue LY = CALCULATE([Revenue],SAMEPERIODLASTYEAR('sales date'[date]))
+
+- Step 17 : The rest of the report is divided into two sheets, namely Performance analysis and profit analysis which contains six clustered bar charts, one line and column clustered bar  charts, one table and a line chart to clearify the problem statement using various visulazation as mentioned.
+ - Step 18 : The report was then published to Power BI Service.
  
  
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/c4fba114-fe06-47f4-b579-ededa2b23ddd)
+
