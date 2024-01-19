@@ -177,25 +177,43 @@ Analyzing the Top Customer by Revenue offers crucial insights into key accounts 
 **Insight:**
 Electricalsara Stores emerges as the standout revenue generator, while the combination of Excel Store, Premium Store, Electricalslytical, and Info Store contributes to a well-rounded and diversified revenue structure.
 ## B) Profit Analysis:
-### [1] Profit Percentage by Market
+### [1] Profit Margin Percentage by Market
 Examining Profit Percentage by Market pinpoints areas of sales efficiency, offering a clear understanding of high-margin markets. This insight aids in resource optimization, enabling targeted efforts for maximum profitability across markets. If we check for year 2020,
 1. **Bhubneshwar:**
-   - Profit Percentage: 10.5%
-   - Represents the highest profit margin among all markets, indicating robust sales efficiency and potential for strategic focus.
+   - Profit Margin Percentage: 10.5%
+   - Emerges as the market with the highest profit margin, indicating strong profitability.
 
 2. **Hyderabad:**
-   - Profit Percentage: 6.7%
-   - Secures the second-highest profit percentage, highlighting a strong market performance with room for further optimization.
+   - Profit Margin Percentage: 6.7%
+   - Secures the second position in profit margin, showcasing a healthy level of profitability.
 
 3. **Chennai:**
-   - Profit Percentage: 6.3%
-   - Holds the third position in profit percentage, showcasing a stable market with noteworthy profitability.
+   - Profit Margin Percentage: 6.3%
+   - Ranks third in profit margin, contributing positively to overall profitability.
 
 4. **Kanpur:**
-   - Profit Percentage: -21.2%
-   - Records the lowest profit percentage, signaling potential challenges or inefficiencies that require immediate attention.
+   - Profit Margin Percentage: -21.2%
+   - Exhibits the lowest profit margin, highlighting a substantial loss in this market.
 
 **Insight:**
-Bhubneshwar emerges as a standout market with the highest profit percentage, while Kanpur's negative profit percentage indicates critical areas for improvement, demanding a focused approach for enhanced profitability.
-### [2] Profit Contribution Percentage by Market
-Analyzing Profit Contribution Percentage by Market unveils the financial impact of each market on the overall profitability. This insight aids in identifying key contributors and strategically allocating resources for maximum revenue generation and sustained business growth. If we check for year 2020,
+Bhubneshwar leads with a significant profit margin, while Hyderabad and Chennai also contribute positively. However, Kanpur's exceptionally low profit margin indicates a challenging market where corrective strategies may be needed to improve profitability or consider strategic adjustments.
+### [2] Profit Margin Contribution Percentage by Market
+Analyzing Profit Margin Contribution Percentage by Market unveils the financial impact of each market on the overall profitability. This insight aids in identifying key contributors and strategically allocating resources for maximum revenue generation and sustained business growth. If we check for year 2020,
+1. **Delhi NCR:**
+   - Profit Margin Contribution Percentage: 22.1%
+   - Despite a modest profit margin of 0.6%, Delhi NCR contributes significantly, indicating a pivotal market for overall profitability.
+
+2. **Chennai:**
+   - Profit Margin Contribution Percentage: 7.6%
+   - Exhibits a notable contribution despite a slight decrease in profit margin from 6.3%, suggesting sustained positive impact.
+
+3. **Mumbai:**
+   - Profit Margin Contribution Percentage: 7.5%
+   - Maintains a substantial contribution despite a profit margin increase from 1.7%, emphasizing a positive trend in profitability.
+
+4. **Bhopal:**
+   - Profit Margin Contribution Percentage: -2.5%
+   - Represents the lowest contribution, and with a negative profit margin of -2.2%, signals a potential concern for the overall profitability.
+
+**Insights:**
+Delhi NCR plays a pivotal role with its significant contribution, emphasizing its critical impact on overall profitability. Chennai and Mumbai consistently exhibit positive contributions, reflecting alignment with improved profit margins. Bhopal's negative profit margin and contribution underscore the need for thorough analysis and potential business strategy reassessment. The comparison of profit margin and contribution percentages offers insights into market effectiveness, guiding strategic decisions for sustained financial health.
