@@ -99,7 +99,11 @@ Following inferences can be drawn from the dashboard;
 ## A) Performance Analysis:
 ### [1] Sales Quanity by Maeket
 Analyzing sales quantity by market in the Axis Hardware Sales Report unveils geographic patterns, allowing for targeted strategies to meet regional demands. This insight enables the optimization of inventory, marketing efforts, and sales tactics tailored to specific market dynamics. If we check for year 2020,
+
 1.1) Delhi NCR leads with the highest inventory count, reaching an impressive 143K goods.
+
 1.2) Nagpur secures the second position, boasting a substantial inventory of 28K items.
+
 1.3) Mumbai follows closely in the third spot, maintaining an inventory count of 23K goods.
+
          thus, Delhi NCR holds the top position, while Nagpur and Mumbai stand as significant markets based on their respective inventory sizes.
