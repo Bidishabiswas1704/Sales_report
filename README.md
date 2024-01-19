@@ -178,4 +178,24 @@ Analyzing the Top Customer by Revenue offers crucial insights into key accounts 
 Electricalsara Stores emerges as the standout revenue generator, while the combination of Excel Store, Premium Store, Electricalslytical, and Info Store contributes to a well-rounded and diversified revenue structure.
 ## B) Profit Analysis:
 ### [1] Profit Percentage by Market
-Examining Profit Percentage by Market pinpoints areas of sales efficiency, offering a clear understanding of high-margin markets. This insight aids in resource optimization, enabling targeted efforts for maximum profitability across markets.
+Examining Profit Percentage by Market pinpoints areas of sales efficiency, offering a clear understanding of high-margin markets. This insight aids in resource optimization, enabling targeted efforts for maximum profitability across markets. If we check for year 2020,
+1. **Bhubneshwar:**
+   - Profit Percentage: 10.5%
+   - Represents the highest profit margin among all markets, indicating robust sales efficiency and potential for strategic focus.
+
+2. **Hyderabad:**
+   - Profit Percentage: 6.7%
+   - Secures the second-highest profit percentage, highlighting a strong market performance with room for further optimization.
+
+3. **Chennai:**
+   - Profit Percentage: 6.3%
+   - Holds the third position in profit percentage, showcasing a stable market with noteworthy profitability.
+
+4. **Kanpur:**
+   - Profit Percentage: -21.2%
+   - Records the lowest profit percentage, signaling potential challenges or inefficiencies that require immediate attention.
+
+**Insight:**
+Bhubneshwar emerges as a standout market with the highest profit percentage, while Kanpur's negative profit percentage indicates critical areas for improvement, demanding a focused approach for enhanced profitability.
+### [2] Profit Contribution Percentage by Market
+Analyzing Profit Contribution Percentage by Market unveils the financial impact of each market on the overall profitability. This insight aids in identifying key contributors and strategically allocating resources for maximum revenue generation and sustained business growth. If we check for year 2020,
