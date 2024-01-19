@@ -97,14 +97,14 @@ A two pages report was created on Power BI Desktop & it was then published to Po
 
 Following inferences can be drawn from the dashboard;
 ## A) Performance Analysis:
-### [1] Sales Quanity by Maeket
+### [1] Sales Quanity by Market
 Analyzing sales quantity by market in the Axis Hardware Sales Report unveils geographic patterns, allowing for targeted strategies to meet regional demands. This insight enables the optimization of inventory, marketing efforts, and sales tactics tailored to specific market dynamics. If we check for year 2020,
 
-1.1) Delhi NCR leads with the highest inventory count, reaching an impressive 143K goods.
+- 1.1) Delhi NCR leads with the highest inventory count, reaching an impressive 143K goods.
 
-1.2) Nagpur secures the second position, boasting a substantial inventory of 28K items.
+- 1.2) Nagpur secures the second position, boasting a substantial inventory of 28K items.
 
-1.3) Mumbai follows closely in the third spot, maintaining an inventory count of 23K goods.
+- 1.3) Mumbai follows closely in the third spot, maintaining an inventory count of 23K goods.
 
 **Insight:**
 thus, Delhi NCR holds the top position, while Nagpur and Mumbai stand as significant markets based on their respective inventory sizes.
@@ -112,11 +112,11 @@ thus, Delhi NCR holds the top position, while Nagpur and Mumbai stand as signifi
 ### [2] Revenue by Market
 Analyzing revenue by market in the sales report unveils revenue distribution patterns, enabling strategic focus on markets contributing most significantly to overall sales. This insight empowers businesses to allocate resources effectively, tailor marketing strategies, and prioritize efforts for optimal revenue growth. If we check for year 2020,
 
-1.1) Delhi NCR leads with a remarkable revenue of 78 Million, establishing strong market dominance.
+- 2.1) Delhi NCR leads with a remarkable revenue of 78 Million, establishing strong market dominance.
 
-1.2) Ahmedabad and Mumbai secure the second position with revenue of 9 Million, presenting an opportunity for refining revenue strategies based on sales performance.
+- 2.2) Ahmedabad and Mumbai secure the second position with revenue of 9 Million, presenting an opportunity for refining revenue strategies based on sales performance.
 
-1.3) Nagpur, despite ranking third in revenue with 6 Million, exhibits efficient sales, indicating potential for increased profitability and further revenue growth.
+- 2.3) Nagpur, despite ranking third in revenue with 6 Million, exhibits efficient sales, indicating potential for increased profitability and further revenue growth.
 
 **Insight:**
 thus, The correlation between sales and revenue emphasizes the need for a focused approach in Ahmedabad and Mumbai to align strategies for sustained growth. Nagpur, with efficient sales conversion despite lower revenue, suggests potential for increased profitability through targeted efforts.
@@ -176,3 +176,5 @@ Analyzing the Top Customer by Revenue offers crucial insights into key accounts 
 
 **Insight:**
 Electricalsara Stores emerges as the standout revenue generator, while the combination of Excel Store, Premium Store, Electricalslytical, and Info Store contributes to a well-rounded and diversified revenue structure.
+## A) Profit Analysis:
+### [1] Profit Percentage by Market
