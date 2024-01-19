@@ -217,3 +217,21 @@ Analyzing Profit Margin Contribution Percentage by Market unveils the financial 
 
 **Insights:**
 Delhi NCR plays a pivotal role with its significant contribution, emphasizing its critical impact on overall profitability. Chennai and Mumbai consistently exhibit positive contributions, reflecting alignment with improved profit margins. Bhopal's negative profit margin and contribution underscore the need for thorough analysis and potential business strategy reassessment. The comparison of profit margin and contribution percentages offers insights into market effectiveness, guiding strategic decisions for sustained financial health.
+### [3] Revenue Comparision with last year
+Revenue comparison, with profit margin as a key axis, provides essential insights for businesses. By examining the relationship between revenue changes and profit margins, companies can gauge overall financial well-being. This analysis helps identify periods of robust profitability, allowing for targeted resource allocation and strategic planning. Additionally, it facilitates the evaluation of the effectiveness of sales and marketing initiatives, guiding decision-making for sustained growth and success.
+1. **January 2020:**
+   - Revenue is lower compared to the same month in the previous year, signaling a potential decline in business performance.
+
+2. **February 2020:**
+   - Witnesses a subsequent increase, suggesting a temporary recovery from the earlier decline.
+
+3. **March and April 2020:**
+   - Reflects steady revenue, indicating potential market stability during these months.
+
+4. **May and June 2020:**
+   - Experience a steep decrease, highlighting a significant downturn in business.
+
+**Insight:**
+The data reveals a fluctuating revenue trend in the first half of 2020. While the temporary recovery in February provides a glimmer of hope, the sharp decrease in May and June indicates challenges. A detailed analysis of contributing factors is crucial, and understanding these fluctuations can guide businesses in adapting strategies for improved performance and financial stability.
+### [4] Performance Table
+The table, featuring customer names along with revenue, revenue margin contribution%, profit margin contribution%, and profit margin%, offers a comprehensive overview of individual customer performance. This allows businesses to identify top contributors, assess profitability, and strategically allocate resources based on customer-specific financial metrics, enhancing overall decision-making in sales strategies.
