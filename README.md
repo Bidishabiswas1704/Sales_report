@@ -125,21 +125,31 @@ Analyzing the revenue trend over time provides valuable insights into sales perf
 ##### Year 2017:
 
 a) January 2017: Initial baseline.
+
 b) November 2017: Substantial increase.
+
 c) December 2017: Decrease, marking the end of the year.
+
 ##### Year 2018:
 
 a) January 2018: Revenue peaks at 25 million.
+
 b) August 2018: Revenue reaches the highest point again at 25 million.
+
 c) October 2018: A dip is observed, hitting the lowest point at 17 million.
+
 ##### Year 2019:
 
 a) June 2019: Revenue hits a low point at 14.7 million.
+
 b)July 2019: Steep increase in revenue, reaching 20.9 million.
+
 Subsequent months in 2019: A decline is observed.
+
 ##### Year 2020:
 
 a) January to March 2020: Revenue remains steady at 17 million.
+
 b) June 2020: A significant decrease is noted, reaching 8 million.
 
 ### Insight:
