@@ -106,4 +106,22 @@ Analyzing sales quantity by market in the Axis Hardware Sales Report unveils geo
 
 1.3) Mumbai follows closely in the third spot, maintaining an inventory count of 23K goods.
 
-         thus, Delhi NCR holds the top position, while Nagpur and Mumbai stand as significant markets based on their respective inventory sizes.
+thus, Delhi NCR holds the top position, while Nagpur and Mumbai stand as significant markets based on their respective inventory sizes.
+
+### [2] Revenue by Maeket
+Analyzing revenue by market in the sales report unveils revenue distribution patterns, enabling strategic focus on markets contributing most significantly to overall sales. This insight empowers businesses to allocate resources effectively, tailor marketing strategies, and prioritize efforts for optimal revenue growth. If we check for year 2020,
+
+1.1) Delhi NCR emerges as the top market both in sales and revenue, indicating strong market dominance with the highest revenue of 78 Million.
+
+1.2) While Ahmedabad and Mumbai secure the second position in revenue, their sales data comparison reveals a potential opportunity for optimizing revenue generation strategies in these markets.
+
+1.3) Nagpur, although ranking third in revenue, exhibits a notable position in sales, suggesting efficient sales performance and potential for further revenue growth.
+
+thus, The correlation between sales and revenue emphasizes the need for a focused approach in Ahmedabad and Mumbai to align strategies for sustained growth. Nagpur, with efficient sales conversion despite lower revenue, suggests potential for increased profitability through targeted efforts.
+
+
+
+
+
+
+
