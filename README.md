@@ -106,6 +106,7 @@ Analyzing sales quantity by market in the Axis Hardware Sales Report unveils geo
 
 1.3) Mumbai follows closely in the third spot, maintaining an inventory count of 23K goods.
 
+**Insight:**
 thus, Delhi NCR holds the top position, while Nagpur and Mumbai stand as significant markets based on their respective inventory sizes.
 
 ### [2] Revenue by Market
@@ -117,6 +118,7 @@ Analyzing revenue by market in the sales report unveils revenue distribution pat
 
 1.3) Nagpur, despite ranking third in revenue with 6 Million, exhibits efficient sales, indicating potential for increased profitability and further revenue growth.
 
+**Insight:**
 thus, The correlation between sales and revenue emphasizes the need for a focused approach in Ahmedabad and Mumbai to align strategies for sustained growth. Nagpur, with efficient sales conversion despite lower revenue, suggests potential for increased profitability through targeted efforts.
 
 ### [3] Revenue Trend
@@ -152,7 +154,25 @@ a) January to March 2020: Revenue remains steady at 17 million.
 
 b) June 2020: A significant decrease is noted, reaching 8 million.
 
-### Insight:
+**Insight:**
 The analysis reveals distinct patterns in revenue trends for each year, providing insights into peak months, low points, and overall trajectory, aiding strategic planning and decision-making.
 ### [4] Top Customer by Revenue
 Analyzing the Top Customer by Revenue offers crucial insights into key accounts driving significant business income, helping identify customer segments with the highest contribution and enabling strategic efforts to nurture and expand these valuable relationships for sustained revenue growth. This insight guides businesses in tailoring sales and marketing strategies to optimize engagement with top-performing clients. If we check for year 2020,
+1. **Electricalsara Stores:**
+   - Revenue: 66 million
+   - Signifies the top revenue contributor, showcasing significant market dominance.
+
+2. **Excel Store:**
+   - Revenue: 8 million
+   - Holds a notable position in the revenue structure, contributing substantially to overall sales.
+
+3. **Premium Store and Electricalslytical:**
+   - Revenue: 6 million each
+   - Share an equal contribution to the revenue, highlighting their comparable importance.
+
+4. **Info Store:**
+   - Revenue: 5 million
+   - Contributes to the overall revenue, adding to the diversified customer revenue mix.
+
+**Insight:**
+Electricalsara Stores emerges as the standout revenue generator, while the combination of Excel Store, Premium Store, Electricalslytical, and Info Store contributes to a well-rounded and diversified revenue structure.
