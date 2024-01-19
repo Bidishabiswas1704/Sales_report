@@ -108,7 +108,7 @@ Analyzing sales quantity by market in the Axis Hardware Sales Report unveils geo
 
 thus, Delhi NCR holds the top position, while Nagpur and Mumbai stand as significant markets based on their respective inventory sizes.
 
-### [2] Revenue by Maeket
+### [2] Revenue by Market
 Analyzing revenue by market in the sales report unveils revenue distribution patterns, enabling strategic focus on markets contributing most significantly to overall sales. This insight empowers businesses to allocate resources effectively, tailor marketing strategies, and prioritize efforts for optimal revenue growth. If we check for year 2020,
 
 1.1) Delhi NCR leads with a remarkable revenue of 78 Million, establishing strong market dominance.
@@ -119,7 +119,7 @@ Analyzing revenue by market in the sales report unveils revenue distribution pat
 
 thus, The correlation between sales and revenue emphasizes the need for a focused approach in Ahmedabad and Mumbai to align strategies for sustained growth. Nagpur, with efficient sales conversion despite lower revenue, suggests potential for increased profitability through targeted efforts.
 
-### [2] Revenue Trend
+### [3] Revenue Trend
 Analyzing the revenue trend over time provides valuable insights into sales performance dynamics, allowing businesses to identify growth patterns, seasonal fluctuations, and areas for strategic improvement. This insight enables data-driven decision-making to optimize sales strategies and enhance overall revenue outcomes.
 
 ##### Year 2017:
@@ -154,3 +154,5 @@ b) June 2020: A significant decrease is noted, reaching 8 million.
 
 ### Insight:
 The analysis reveals distinct patterns in revenue trends for each year, providing insights into peak months, low points, and overall trajectory, aiding strategic planning and decision-making.
+### [4] Top Customer by Revenue
+Analyzing the Top Customer by Revenue offers crucial insights into key accounts driving significant business income, helping identify customer segments with the highest contribution and enabling strategic efforts to nurture and expand these valuable relationships for sustained revenue growth. This insight guides businesses in tailoring sales and marketing strategies to optimize engagement with top-performing clients. If we check for year 2020,
