@@ -111,17 +111,36 @@ thus, Delhi NCR holds the top position, while Nagpur and Mumbai stand as signifi
 ### [2] Revenue by Maeket
 Analyzing revenue by market in the sales report unveils revenue distribution patterns, enabling strategic focus on markets contributing most significantly to overall sales. This insight empowers businesses to allocate resources effectively, tailor marketing strategies, and prioritize efforts for optimal revenue growth. If we check for year 2020,
 
-1.1) Delhi NCR emerges as the top market both in sales and revenue, indicating strong market dominance with the highest revenue of 78 Million.
+1.1) Delhi NCR leads with a remarkable revenue of 78 Million, establishing strong market dominance.
 
-1.2) While Ahmedabad and Mumbai secure the second position in revenue, their sales data comparison reveals a potential opportunity for optimizing revenue generation strategies in these markets.
+1.2) Ahmedabad and Mumbai secure the second position with revenue of 9 Million, presenting an opportunity for refining revenue strategies based on sales performance.
 
-1.3) Nagpur, although ranking third in revenue, exhibits a notable position in sales, suggesting efficient sales performance and potential for further revenue growth.
+1.3) Nagpur, despite ranking third in revenue with 6 Million, exhibits efficient sales, indicating potential for increased profitability and further revenue growth.
 
 thus, The correlation between sales and revenue emphasizes the need for a focused approach in Ahmedabad and Mumbai to align strategies for sustained growth. Nagpur, with efficient sales conversion despite lower revenue, suggests potential for increased profitability through targeted efforts.
 
+### [2] Revenue Trend
+Analyzing the revenue trend over time provides valuable insights into sales performance dynamics, allowing businesses to identify growth patterns, seasonal fluctuations, and areas for strategic improvement. This insight enables data-driven decision-making to optimize sales strategies and enhance overall revenue outcomes.
 
+##### Year 2017:
 
+a) January 2017: Initial baseline.
+b) November 2017: Substantial increase.
+c) December 2017: Decrease, marking the end of the year.
+##### Year 2018:
 
+a) January 2018: Revenue peaks at 25 million.
+b) August 2018: Revenue reaches the highest point again at 25 million.
+c) October 2018: A dip is observed, hitting the lowest point at 17 million.
+##### Year 2019:
 
+a) June 2019: Revenue hits a low point at 14.7 million.
+b)July 2019: Steep increase in revenue, reaching 20.9 million.
+Subsequent months in 2019: A decline is observed.
+##### Year 2020:
 
+a) January to March 2020: Revenue remains steady at 17 million.
+b) June 2020: A significant decrease is noted, reaching 8 million.
 
+### Insight:
+The analysis reveals distinct patterns in revenue trends for each year, providing insights into peak months, low points, and overall trajectory, aiding strategic planning and decision-making.
